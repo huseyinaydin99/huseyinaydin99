@@ -42,14 +42,14 @@ Lütfen çok rica ediyorum sonuna kadar dikkatli okuyunuz. Önemli!
 
 Günümüzde ki en önemli vasıflardan birisi de anlatılanları ve yazılanları sonuna kadar sükunetle sonuna kadar takip edebilmektir.
 
-	Meslek lisesi ve meslek yüksek okulu diplomalarımı yırttım.
+Meslek lisesi ve meslek yüksek okulu diplomalarımı yırttım.
 Sebebini videoda anlattım. Lütfen CV'yi okuduktan sonra izleyiniz. Unutmayınız!
 Video: https://youtu.be/wWOS_dv9IrE
 
 LinkedIn profilimi lütfen inceleyiniz:
 https://www.linkedin.com/in/h%C3%BCseyin-aydin-778a13248?original_referer=
 
-	11.09.1994 tarihinde Niğde’de doğdum. Niğde de ikamet ediyorum ve yaşıyorum. Babam elektrik teknisyeni, annem ev hanımı. Benimle birlikte dört kardeşiz. İlkokulu (2008), Endüstri Meslek Lisesi Web Tasarım ve Programlama bölümünü (2012), Niğde Üniversitesi Bor Meslek Yüksek Okulu Bilgisayar Programcılığı ön lisansı(2 yıllık) (2014) yıllarında bitirdim. İlk yazdığım program C# dilinde idi ve kullanıcıdan isim sorup aldığı ismi hoş geldiniz falanca kişi diye selamlıyor idi. Yazılım ile 2009 senesinde tanıştım. 2009 senesinde lise 1. sınıfa gidiyor idim. Şu an 28 yaşındayım.
+11.09.1994 tarihinde Niğde’de doğdum. Niğde de ikamet ediyorum ve yaşıyorum. Babam elektrik teknisyeni, annem ev hanımı. Benimle birlikte dört kardeşiz. İlkokulu (2008), Endüstri Meslek Lisesi Web Tasarım ve Programlama bölümünü (2012), Niğde Üniversitesi Bor Meslek Yüksek Okulu Bilgisayar Programcılığı ön lisansı(2 yıllık) (2014) yıllarında bitirdim. İlk yazdığım program C# dilinde idi ve kullanıcıdan isim sorup aldığı ismi hoş geldiniz falanca kişi diye selamlıyor idi. Yazılım ile 2009 senesinde tanıştım. 2009 senesinde lise 1. sınıfa gidiyor idim. Şu an 28 yaşındayım.
 
 Bildiğim ve sevdiğim teknolojiler;
 
@@ -207,6 +207,16 @@ Pratik Spring Core(E-kitap - PDF).
 
 Diğer okuduğum kitaplar:
 Oracle SQL - Analitik SQL ve PL/SQL.
+
+Yazdığım makaleler: 
+1. makalem: Java’da değer ve referans tipler nedir?
+https://medium.com/@huseyinaydin99/javada-de%C4%9Fer-ve-referans-tipler-2fe5c79ba5ad
+2. makalem: Java’da Interface nedir?
+https://medium.com/@huseyinaydin99/javada-interface-nedir-3257b93a378a
+3. makalem: REST nedir? HTTP nedir? HTTP metotlar nelerdir?
+https://medium.com/@huseyinaydin99/rest-nedir-http-nedir-http-metotlar-nelerdir-7026e8647a5b
+4. makalem: SOLID Principle(Solid Prensipler)
+https://medium.com/@huseyinaydin99/solid-principle-solid-prensipler-b962d9acf055
 
 Bazı sertifikalarım:
 
