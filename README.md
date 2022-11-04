@@ -28,7 +28,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huso51&show_icons=true&locale=en&layout=compact" alt="huso51" /></p>
 <p>
 Hello. My name is Huseyin Aydin.
-	My childhood was spent in Niğde, so was my adulthood. I want to advance and make a career in the software field. I started software development in high school. I increase my programming experience by taking trainings, writing demo projects, doing algorithm exercises, reading books and watching seminars.
+My childhood was spent in Niğde, so was my adulthood. I want to advance and make a career in the software field. I started software development in high school. I increase my programming experience by taking trainings, writing demo projects, doing algorithm exercises, reading books and watching seminars.
 I started high school in 2009 and finished in 2012. I finished Bor Vocational High School between 2012 and 2014. My student life did not end with graduation. It won't end until he dies. I'm an apprentice software developer trying to improve myself by getting training and reading books, that's all.
 My experience in programming and software on
 • Java / Java EE specifications JAX-RS (Jersey), JPA (Hibernate)
@@ -126,7 +126,7 @@ Bu da benden ilave:
 D_o Not Repeat Yourself Principle.
 
 Bilmediğim şeyleri söylerim bunu da asla saklamam. Ancak bazı insanlar hayatlarında ilk defa duydukları şeyleri kendilerini uzmanmış gibi gösterip CV'lerine yazarlar. Ben bunu hiç sevmem. Ne biliyorsam o. Derin öğrenme, makine öğrenmesi, yapay sinir ağları, yapay zeka, Dev Ops, bulut teknolojileri, veri madenciliği, Swift ve Kotlin vs... birçok şeyi bilmiyorum. O kadar çok şey var ki öğren öğren bitmiyor. Bilmediklerimi ayağımın altına koysam buradan Mars’a kadar giderim. (: Mimar Aslan abinin Spring Framework, Hibernate ve Java Server Faces kitaplarını okuyup için de ki örnek projeleri gerekli IDE'lerde aynen uygulayarak öğrendim. Git ve Github’u(versiyon yönetimini) kullanmayı tamamen olmasa da bayağı biliyorum.
-	Niğde'de yazılım ile ilgili iş imkânı bulamadığım için çakma firma Bluesoft Yazılım'da bir süre karın tokluğuna çalıştım. Yürüyüş yapmayı, doğada gezmeyi ve bisiklet sürmeyi çok severim. Yenilikleri takip edip yeni teknolojileri öğrenmeyi ihtiyaç hissediyorum. Bekârım. Sigara kullanmıyorum. İngilizceyi okuduğumun ve duyduğumun sadece %23’ini anlayacak kadar bildiğimi tahmin etmekteyim. Maalesef yeterli düzeyde değil. Bildiğimi iddia ettiğim teknolojiler sadece aldığım eğitimler ve kendi çabamla öğrendiğim bilgilerden ibaret. Lenovo Ideapad Y510P Laptop’um da Mac OSX(Hackintosh) ve Windows 11 kurulu. Hackintosh hakkında bilgi sahibiyim.(Mac olmayan bilgisayara macOS yüklemek hakkında). İstanbul, Ankara gibi büyük şehirlere gitmekten gerçekten çok korkuyorum. Çünkü daha önce büyük şehre hiç gitmedim. Kaybolacak mışım gibi hissediyorum, yoğun endişe ve kaygı duyuyorum. Niğde’nin dışına pek çıktığım söylenemez. Bir işe girecek olursam eğer bildiklerimi ve benden istenilen görevi yapamamaktan korkuyorum. Bu yüzden yoğun endişe, kaygı ve stres hissediyorum. O yüzden kusura bakmayın.
+Niğde'de yazılım ile ilgili iş imkânı bulamadığım için çakma firma Bluesoft Yazılım'da bir süre karın tokluğuna çalıştım. Yürüyüş yapmayı, doğada gezmeyi ve bisiklet sürmeyi çok severim. Yenilikleri takip edip yeni teknolojileri öğrenmeyi ihtiyaç hissediyorum. Bekârım. Sigara kullanmıyorum. İngilizceyi okuduğumun ve duyduğumun sadece %23’ini anlayacak kadar bildiğimi tahmin etmekteyim. Maalesef yeterli düzeyde değil. Bildiğimi iddia ettiğim teknolojiler sadece aldığım eğitimler ve kendi çabamla öğrendiğim bilgilerden ibaret. Lenovo Ideapad Y510P Laptop’um da Mac OSX(Hackintosh) ve Windows 11 kurulu. Hackintosh hakkında bilgi sahibiyim.(Mac olmayan bilgisayara macOS yüklemek hakkında). İstanbul, Ankara gibi büyük şehirlere gitmekten gerçekten çok korkuyorum. Çünkü daha önce büyük şehre hiç gitmedim. Kaybolacak mışım gibi hissediyorum, yoğun endişe ve kaygı duyuyorum. Niğde’nin dışına pek çıktığım söylenemez. Bir işe girecek olursam eğer bildiklerimi ve benden istenilen görevi yapamamaktan korkuyorum. Bu yüzden yoğun endişe, kaygı ve stres hissediyorum. O yüzden kusura bakmayın.
 
 
 BTK Akademi bitirdiğim ve sınavını geçtiğim kurslar(22 tane):
@@ -293,10 +293,8 @@ Hüseyin AYDIN
 
 Developer CV prepared with PHP:
 
-<?php
-
-
-
+<code>
+	<?php
 /*
 * Hüseyin Aydın's Resume v1.0 *
 * I'm a full stack developer i loves Java, C#, Python and Angular... *
@@ -329,7 +327,6 @@ $skills = array("Java", "C#", "Python", "Scala", "Java FX", "C", "C++", "Cygwin 
 $me = array_merge($education1, $education2, $skills);
 $company = YourCompany();
 $company -> hire($me);
-
-
 ?>
+</code>
 </p>
