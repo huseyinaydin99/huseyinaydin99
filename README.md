@@ -208,16 +208,6 @@ Pratik Spring Core(E-kitap - PDF).
 Diğer okuduğum kitaplar:
 Oracle SQL - Analitik SQL ve PL/SQL.
 
-Yazdığım makaleler: 
-1. makalem: Java’da değer ve referans tipler nedir?
-https://medium.com/@huseyinaydin99/javada-de%C4%9Fer-ve-referans-tipler-2fe5c79ba5ad
-2. makalem: Java’da Interface nedir?
-https://medium.com/@huseyinaydin99/javada-interface-nedir-3257b93a378a
-3. makalem: REST nedir? HTTP nedir? HTTP metotlar nelerdir?
-https://medium.com/@huseyinaydin99/rest-nedir-http-nedir-http-metotlar-nelerdir-7026e8647a5b
-4. makalem: SOLID Principle(Solid Prensipler)
-https://medium.com/@huseyinaydin99/solid-principle-solid-prensipler-b962d9acf055
-
 Bazı sertifikalarım:
 
 Android Programlama İçin Java ve XML:
@@ -247,7 +237,8 @@ RESTful Web Servisleri
 https://www.udemy.com/certificate/UC-XZJW1S6M/
 Java Server Pages 
 https://www.udemy.com/certificate/UC-N6X0C3VE/
-Ethereum ve Solidity dili ile Blockchain Programlama https://www.udemy.com/certificate/UC-a6a85854-59a3-43b1-b93e-06e7eb0c2108/?fbclid=IwAR3r2HeZTozfKzCRUMrDdNkeajsNR205awhLLgpBOCghFT5mqNSDUlHhnuk
+Ethereum ve Solidity dili ile Blockchain Programlama
+https://www.udemy.com/certificate/UC-a6a85854-59a3-43b1-b93e-06e7eb0c2108/?fbclid=IwAR3r2HeZTozfKzCRUMrDdNkeajsNR205awhLLgpBOCghFT5mqNSDUlHhnuk
 IOS Objective C 
 https://www.udemy.com/certificate/UC-222OS29E/
 IOS Objective C 2 IOS Programlama 1 
@@ -264,14 +255,16 @@ IOS 401
 https://gelecegiyazanlar.turkcell.com.tr/kisi/huseyinaydin99/belge/ios-401
 İleri Seviye Oracle PL/SQL 
 https://www.udemy.com/certificate/UC-f29bab74-d12b-4e92-bb89-126ba8d1d646/
-Microsoft Azure Cloud ile Big Data Programlama https://www.udemy.com/certificate/UC-853b0276-6b86-4d86-96dc-844620331e5c/
+Microsoft Azure Cloud ile Big Data Programlama
+https://www.udemy.com/certificate/UC-853b0276-6b86-4d86-96dc-844620331e5c/
 JPA ve Hibernate Framework Programlama 
 https://www.udemy.com/certificate/UC-083682ca-bb8d-4b05-add7-5250e14b7354/
 Java Server Faces 
 https://www.udemy.com/certificate/UC-2860f7c0-2e24-41c7-b8c9-b9b856bf3e0e/
 Spring Web MVC ve JPA Hibernate 
 https://www.udemy.com/certificate/UC-981eea95-5c8a-4ccd-8650-6c44b856837f/
-SOAP ve RESTful Web Servisleri ile Android Programlama https://www.udemy.com/certificate/UC-02082a24-17b7-4fac-a71e-ff1ea478eb89/
+SOAP ve RESTful Web Servisleri ile Android Programlama
+https://www.udemy.com/certificate/UC-02082a24-17b7-4fac-a71e-ff1ea478eb89/
 Spring Framework 
 https://www.udemy.com/certificate/UC-0de4a569-ae2b-424e-8efa-39cab814c5a1/
 Spring Core
@@ -292,9 +285,8 @@ Hüseyin AYDIN
 
 
 Developer CV prepared with PHP:
-
-<code>
-	<?php
+	<code>
+"<?php
 /*
 * Hüseyin Aydın's Resume v1.0 *
 * I'm a full stack developer i loves Java, C#, Python and Angular... *
@@ -327,6 +319,6 @@ $skills = array("Java", "C#", "Python", "Scala", "Java FX", "C", "C++", "Cygwin 
 $me = array_merge($education1, $education2, $skills);
 $company = YourCompany();
 $company -> hire($me);
-?>
-</code>
+?>"
+	</code>
 </p>
