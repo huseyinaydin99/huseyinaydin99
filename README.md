@@ -319,5 +319,5 @@ Sürçü lisan ettiysem affola.
 Bir firmada gel kardeş seni yetiştirelim demiyor. Hepsi Senior bilmem ne arıyor. Bu yazılımcılar ağaçta mı yetişiyor?
 
 Saygılar...
-Hüseyin AYDIN
+Hüseyin AYDIN 
 </p>
