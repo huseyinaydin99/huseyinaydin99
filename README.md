@@ -210,66 +210,106 @@ Oracle SQL - Analitik SQL ve PL/SQL.
 
 Bazı sertifikalarım:
 
-Android Programlama İçin Java ve XML:
+Android Programlama İçin Java ve XML
 https://www.udemy.com/certificate/UC-TGFQZTJD/
+	
 Android 101
 https://gelecegiyazanlar.turkcell.com.tr/kisi/huseyinaydin99/belge/android-101
+	
 Android 201
 https://gelecegiyazanlar.turkcell.com.tr/kisi/huseyinaydin99/belge/android-201
+	
 Android 301
 https://gelecegiyazanlar.turkcell.com.tr/kisi/huseyinaydin99/belge/android-301
+	
 Android 401
 https://gelecegiyazanlar.turkcell.com.tr/kisi/huseyinaydin99/belge/android-401
+	
 
 Spring Boot
 https://www.udemy.com/certificate/UC-6a46ecc9-285c-41bd-9a2f-ab9b7f3d6ea5/
-Spring ve Hibernate Entegrasyonları:
+	
+Spring ve Hibernate Entegrasyonları
 https://www.udemy.com/certificate/UC-981eea95-5c8a-4ccd-8650-6c44b856837f/?fbclid=IwAR0Pg7tWF_ymbOkwsPPorAMhoKQ-VAGfKMaf1L-HRsukCXjpHr8fYJviRrQ
-Spring Web MVC:
+	
+Spring Web MVC
 https://www.udemy.com/certificate/UC-9b744fd0-0396-4416-afa5-18178a5139cd/?fbclid=IwAR2_JxzrlT5S6gZj7licrblaj7ZjTnzqyrCxTh9YxJiU9eaMzry7t2-O-cA
-Java SE 7 
+	
+Java SE 7
 https://www.udemy.com/certificate/UC-S5EY0S72/
+	
 Java SE 6
 https://www.udemy.com/certificate/UC-FXM6R1VJ/
-Java Enterprice Edition 
+	
+Java Enterprice Edition
 https://www.udemy.com/certificate/UC-W8Q3UZ6N/
-RESTful Web Servisleri 
+	
+RESTful Web Servisleri
 https://www.udemy.com/certificate/UC-XZJW1S6M/
-Java Server Pages 
+Java Server Pages
 https://www.udemy.com/certificate/UC-N6X0C3VE/
+	
 Ethereum ve Solidity dili ile Blockchain Programlama
 https://www.udemy.com/certificate/UC-a6a85854-59a3-43b1-b93e-06e7eb0c2108/?fbclid=IwAR3r2HeZTozfKzCRUMrDdNkeajsNR205awhLLgpBOCghFT5mqNSDUlHhnuk
-IOS Objective C 
+	
+IOS Objective C
 https://www.udemy.com/certificate/UC-222OS29E/
-IOS Objective C 2 IOS Programlama 1 
+	
+IOS Objective C 2 IOS Programlama 1
 https://www.udemy.com/certificate/UC-KYD7UTYY/
-IOS Objective C 3 IOS Programlama 2 
+	
+IOS Objective C 3 IOS Programlama 2
 https://www.udemy.com/certificate/UC-W3JDSFCA/
-IOS 101 
+	
+IOS 101
 https://gelecegiyazanlar.turkcell.com.tr/kisi/huseyinaydin99/belge/ios-101
-IOS 201 
+	
+IOS 201
 https://gelecegiyazanlar.turkcell.com.tr/kisi/huseyinaydin99/belge/ios-201
-IOS 301 
+	
+IOS 301
 https://gelecegiyazanlar.turkcell.com.tr/kisi/huseyinaydin99/belge/ios-301
-IOS 401 
+	
+IOS 401
 https://gelecegiyazanlar.turkcell.com.tr/kisi/huseyinaydin99/belge/ios-401
-İleri Seviye Oracle PL/SQL 
+	
+Ileri Seviye Oracle PL/SQL
 https://www.udemy.com/certificate/UC-f29bab74-d12b-4e92-bb89-126ba8d1d646/
+	
 Microsoft Azure Cloud ile Big Data Programlama
 https://www.udemy.com/certificate/UC-853b0276-6b86-4d86-96dc-844620331e5c/
-JPA ve Hibernate Framework Programlama 
+	
+JPA ve Hibernate Framework Programlama
 https://www.udemy.com/certificate/UC-083682ca-bb8d-4b05-add7-5250e14b7354/
-Java Server Faces 
+	
+Java Server Faces
 https://www.udemy.com/certificate/UC-2860f7c0-2e24-41c7-b8c9-b9b856bf3e0e/
-Spring Web MVC ve JPA Hibernate 
+	
+Spring Web MVC ve JPA Hibernate
 https://www.udemy.com/certificate/UC-981eea95-5c8a-4ccd-8650-6c44b856837f/
+	
 SOAP ve RESTful Web Servisleri ile Android Programlama
 https://www.udemy.com/certificate/UC-02082a24-17b7-4fac-a71e-ff1ea478eb89/
-Spring Framework 
+	
+Spring Framework
 https://www.udemy.com/certificate/UC-0de4a569-ae2b-424e-8efa-39cab814c5a1/
+	
 Spring Core
 https://www.udemy.com/certificate/UC-03679c94-0267-44a1-8a51-2815f6c02cc9/
-
+	
+Yazdığım makaleler:
+1. makalem Java’da değer ve referans tipler nedir?
+https://medium.com/@huseyinaydin99/javada-de%C4%9Fer-ve-referans-tipler-2fe5c79ba5ad
+	
+2. makalem Java’da Interface nedir?
+https://medium.com/@huseyinaydin99/javada-interface-nedir-3257b93a378a
+	
+3. makalem REST nedir? HTTP nedir? HTTP metotlar nelerdir?
+https://medium.com/@huseyinaydin99/rest-nedir-http-nedir-http-metotlar-nelerdir-7026e8647a5b
+	
+4. makalem SOLID Principle(Solid Prensipler)
+https://medium.com/@huseyinaydin99/solid-principle-solid-prensipler-b962d9acf055
+	
 İnanın kurs videoları izlemekten göz sağlığım bozuldu, yüksek astigmat ve miyopi yüzünden kalın camlı gözlük takıyorum artık.
 CV’de yazım yanlışı varsa kusura bakmayın.
 Sürçü lisan ettiysem affola.
@@ -280,45 +320,4 @@ Bir firmada gel kardeş seni yetiştirelim demiyor. Hepsi Senior bilmem ne arıy
 
 Saygılar...
 Hüseyin AYDIN
-
-
-
-
-Developer CV prepared with PHP:
-	<code>
-"<?php
-/*
-* Hüseyin Aydın's Resume v1.0 *
-* I'm a full stack developer i loves Java, C#, Python and Angular... *
-* Learning something new is my passion. * * @link https://www.facebook.com/beyaz.sapkali.5/,huseyinaydin99@gmail.com*
-*/
-
-DEFINE("Who am I?", "I am Huseyin Aydin.");
-
-//Education_Experience_1
-$education1 = array(
-"name" => "Udemy", "link" => "https://www.udemy.com/", "info" => array(
-"date" => array("June 2012", "April 2020"),
-" education_received" => "Full Stack Developer",
-"techs" => array("Java", "C#", "Spring Framework", "Hibernate", "RESTful", "Database")
-);
-
-//Education_Experience_2
-$education2 = array(
-"name" => "BTK ", "link" => "https://www.btkakademi.gov.tr/portal/", "info" => array(
-"date" => array("May 2020", "September 2020"),
-"education_received" => "Full Stack Developer",
-"techs" => array("Java", "Angular 10", "MySQL", "Oracle")
-);
-
-//Skills
-$skills = array("Java", "C#", "Python", "Scala", "Java FX", "C", "C++", "Cygwin Compiler", "Javascript",
-"Node.JS", "Angular", "Linux", "Soap Web Services", "Swing GUI", "Spring Framework", "Spring Seurity",
-"CSS", "XHTML", "CSS3", "Bootstrap 5", "Swagger", "Lombok", "Spring Microservices", "ORM",
-"Hibernate", "Entity Framework", "HTML5", "JSON", "XML", "Maven", "Gradle");
-$me = array_merge($education1, $education2, $skills);
-$company = YourCompany();
-$company -> hire($me);
-?>"
-	</code>
 </p>
