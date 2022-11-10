@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hüseyin Aydın</h1>
-<h3 align="center">Selamun Aleyküm ben Hüseyin Aydın (:</h3>
-<h3 align="center">An apprentice software developer in Turkey. I am the 7-headed polymorphic dragon that lives in the mountains of Kurdunus/Kayaardı</h3>
+<h1 align="left">Hi 👋, I'm Hüseyin Aydın</h1>
+<h3 align="left">Selamun Aleyküm ben Hüseyin Aydın (:</h3>
+<h3 align="left">An apprentice software developer in Turkey.</h3>
+<h4 align="left">I am the 7-headed polymorphic dragon that lives in the mountains of Kurdunus/Kayaardı</h4>
 
 - 🔭 I’m currently working on **Java and SubTechnologies.**
 
