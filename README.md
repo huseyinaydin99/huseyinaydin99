@@ -1,3 +1,9 @@
+<h1>DİKKAT..!!</h2>
+<h1>OKUYAN KİŞİNİN DİKKATİNE!!!</h2>
+<h2>2014 yılında mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı.</h2>
+<h2>Maddi imkanların içerisindeki imkansızlıklardan dolayı bu durum böyle.</h2>
+<h2>Senelerce proje yapamadım. İnternet bağlantım ve bilgisayarım olmadığı için kağıtlar üzerinde yapmaya çalıştım.</h2>
+<h2>Ciddi zorluklar yaşadım. Umarım anlayış gösterirsiniz.</h2>
 <h2 align="left">Hi 👋, I'm Hüseyin Aydın</h1>
 <h4 align="left">Selamun Aleyküm</h3>
 <h4 align="left">An apprentice software developer in Turkey.</h3>
@@ -6,8 +12,6 @@
 - 🔭 I’m currently working on **Java and SubTechnologies.**
 
 - 🌱 I’m currently learning **I want to fix my right foot on Java. I navigate other technologies with my left foot.**
-
-- 👯 I’m looking to collaborate on **Yapışalım. Gelin ay ışığı altında ölene kadar kapışalım!**
 
 - 📝 I regularly write articles on [https://medium.com/@huseyinaydin99](https://medium.com/@huseyinaydin99)
 
