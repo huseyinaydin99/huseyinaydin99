@@ -1,9 +1,10 @@
 <h1>DİKKAT..!!</h2>
 <h1>OKUYAN KİŞİNİN DİKKATİNE!!!</h2>
-<h2>2014 yılında mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı.</h2>
-<h2>Maddi imkanların içerisindeki imkansızlıklardan dolayı bu durum böyle.</h2>
-<h2>Senelerce proje yapamadım. İnternet bağlantım ve bilgisayarım olmadığı için kağıtlar üzerinde yapmaya çalıştım.</h2>
-<h2>Ciddi zorluklar yaşadım. Umarım anlayış gösterirsiniz.</h2>
+<h3>2014 yılında mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı.</h3>
+<h3>Maddi imkanların içerisindeki imkansızlıklardan dolayı bu durum böyle.</h3>
+<h3>Senelerce proje yapamadım. İnternet bağlantım ve bilgisayarım olmadığı için kağıtlar üzerinde yapmaya çalıştım.</h3>
+<h3>Ciddi zorluklar yaşadım. Umarım anlayış gösterirsiniz.</h3>
+<h3>GitHub profilimin zayıf oluşu bu yüzden.</h3>
 <h2 align="left">Hi 👋, I'm Hüseyin Aydın</h1>
 <h4 align="left">Selamun Aleyküm</h3>
 <h4 align="left">An apprentice software developer in Turkey.</h3>
