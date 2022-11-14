@@ -1,11 +1,11 @@
 <h1>DİKKAT..!!</h2>
 <h1>OKUYAN KİŞİNİN DİKKATİNE!!!</h2>
 <h3>2014 yılında mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı.</h3>
-<h3>Maddi imkanların içerisindeki imkansızlıklardan dolayı bu durum böyle.</h3>
+<h3>Maddi imkanların içerisindeki imkansızlıklardan dolayı bu durum böyle.(Babamın internetten ve bilgisayardan nefret etmesi öcü gibi görmesi, Yahudi icadı diyip eve alamaması mezun olduktan sonra beni çok kötü zora soktu.)</h3>
 <h3>Senelerce proje yapamadım. İnternet bağlantım ve bilgisayarım olmadığı için kağıtlar üzerinde yapmaya çalıştım.</h3>
 <h3>Ciddi zorluklar yaşadım. Umarım anlayış gösterirsiniz.</h3>
 <h3>GitHub profilimin zayıf oluşu bu yüzden.</h3>
-<h3>Eğitim kapmplarına bu yüzden almamazlık yapmayınız. Daha önce zar zor akıllı telefondan izleyerek 120 tane kurs bitirdim ben.</h3>
+<h3>Eğitim kamplarına bu yüzden almamazlık yapmayınız. Daha önce zar zor akıllı telefondan izleyerek 120 tane kurs bitirdim ben.</h3>
 <h3>İnanmazsanız LinkedIn profilimden bakınız. https://www.linkedin.com/in/huseyin99/details/certifications/ </h3>
 <img src="https://media-exp1.licdn.com/dms/image/C5622AQGjeq68PWrTGA/feedshare-shrink_1280/0/1660732485646?e=1671062400&v=beta&t=ZkEA55PS5bQEFA-FJZqHYMx4GEz12j8Y0u1n00zFDjs" />
 <h2 align="left">Hi 👋, I'm Hüseyin Aydın</h1>
