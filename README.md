@@ -1,3 +1,4 @@
+<font face="consolas">
 <h1>DİKKAT..!!</h2>
 <h1>OKUYAN KİŞİNİN DİKKATİNE!!!</h2>
 <h3>2014 yılında mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı.</h3>
@@ -12,7 +13,7 @@
 <h4 align="left">Selamun Aleyküm</h3>
 <h4 align="left">An apprentice software developer in Turkey.</h3>
 <h4 align="left">I am the 7-headed polymorphic dragon that lives in the mountains of Kurdunus/Kayaardı</h4>
-
+</font>
 - 🔭 I’m currently working on **Java and SubTechnologies.**
 
 - 🌱 I’m currently learning **I want to fix my right foot on Java. I navigate other technologies with my left foot.**
