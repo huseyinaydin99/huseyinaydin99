@@ -12,7 +12,7 @@
 <h2 align="left">Hi 👋, I'm Hüseyin Aydın</h1>
 <h4 align="left">Selamun Aleyküm</h3>
 <h4 align="left">An apprentice software developer in Turkey.</h3>
-<h4 align="left">I am the 7-headed polymorphic dragon that lives in the mountains of Kurdunus/Kayaardı</h4>
+<h4 align="left">I am lives in the mountains of Kurdunus/Kayaardı.</h4>
 </font>
 - 🔭 I’m currently working on **Java and SubTechnologies.**
 
