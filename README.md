@@ -220,12 +220,12 @@ Oracle SQL - Analitik SQL ve PL/SQL.
 
 “Medium.com” makalelerim:
 
-Değer ve referans tipler: https://medium.com/@huseyinaydin99/javada-de%C4%9Fer-ve-referans-tipler-2fe5c79ba5ad
-Java'da interface: https://medium.com/@huseyinaydin99/javada-interface-nedir-3257b93a378a
-REST nedir? https://medium.com/@huseyinaydin99/rest-nedir-http-nedir-http-metotlar-nelerdir-7026e8647a5b
-SOLID prensibler: https://medium.com/@huseyinaydin99/solid-principle-solid-prensipler-b962d9acf055
-Spring MVC: https://medium.com/@huseyinaydin99/spring-mvc-e5d844d40a4a
-Spring Nedir? https://medium.com/@huseyinaydin99/spring-nedir-b040ddb34e6a
+Değer ve referans tipler: https://medium.com/@huseyinaydin99/javada-de%C4%9Fer-ve-referans-tipler-2fe5c79ba5ad<br />
+Java'da interface: https://medium.com/@huseyinaydin99/javada-interface-nedir-3257b93a378a<br />
+REST nedir? https://medium.com/@huseyinaydin99/rest-nedir-http-nedir-http-metotlar-nelerdir-7026e8647a5b<br />
+SOLID prensibler: https://medium.com/@huseyinaydin99/solid-principle-solid-prensipler-b962d9acf055<br />
+Spring MVC: https://medium.com/@huseyinaydin99/spring-mvc-e5d844d40a4a<br />
+Spring Nedir? https://medium.com/@huseyinaydin99/spring-nedir-b040ddb34e6a<br />
 
 
 İnanın kurs videoları izlemekten göz sağlığım bozuldu, yüksek astigmat ve miyopi yüzünden kalın camlı gözlük takıyorum artık.
