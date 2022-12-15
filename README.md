@@ -226,6 +226,7 @@ https://medium.com/@huseyinaydin99/solid-principle-solid-prensipler-b962d9acf055
 https://medium.com/@huseyinaydin99/spring-mvc-e5d844d40a4a
 https://medium.com/@huseyinaydin99/spring-nedir-b040ddb34e6a
 
+
 İnanın kurs videoları izlemekten göz sağlığım bozuldu, yüksek astigmat ve miyopi yüzünden kalın camlı gözlük takıyorum artık.
 CV’de yazım yanlışı varsa kusura bakmayın.
 Sürçü lisan ettiysem affola.
