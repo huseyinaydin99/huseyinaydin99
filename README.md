@@ -1,5 +1,5 @@
 <font face="calibri">
-<h3>OKUYAN KİŞİNİN DİKKATİNE!!!</h3>
+<h3>Lütfen dikkatli okuyunuz.</h3>
 <h4>2014 yılında mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı.</h3>
 <h4>Ciddi zorluklar yaşadığım için senelerce proje yapamadım. İnternet bağlantım ve bilgisayarım olmadığı için kağıtlar üzerinde yapmaya çalıştım..</h4>
 <h4>GitHub profilimin zayıf oluşu bu yüzden.</h4>
