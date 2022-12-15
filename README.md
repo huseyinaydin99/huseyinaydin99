@@ -1,6 +1,5 @@
-<font face="consolas">
-<h1>DİKKAT..!!</h2>
-<h1>OKUYAN KİŞİNİN DİKKATİNE!!!</h2>
+<font face="calibri">
+<h2>OKUYAN KİŞİNİN DİKKATİNE!!!</h2>
 <h3>2014 yılında mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı.</h3>
 <h3>Maddi imkanların içerisindeki imkansızlıklardan dolayı bu durum böyle.(Babamın internetten ve bilgisayardan nefret etmesi öcü gibi görmesi, Yahudi icadı diyip eve alamaması mezun olduktan sonra beni çok kötü zora soktu.)</h3>
 <h3>Senelerce proje yapamadım. İnternet bağlantım ve bilgisayarım olmadığı için kağıtlar üzerinde yapmaya çalıştım.</h3>
@@ -135,79 +134,6 @@ Bilmediğim şeyleri söylerim bunu da asla saklamam. Ancak bazı insanlar hayat
 Niğde'de yazılım ile ilgili iş imkânı bulamadığım için çakma firma Bluesoft Yazılım'da bir süre karın tokluğuna çalıştım. Yürüyüş yapmayı, doğada gezmeyi ve bisiklet sürmeyi çok severim. Yenilikleri takip edip yeni teknolojileri öğrenmeyi ihtiyaç hissediyorum. Bekârım. Sigara kullanmıyorum. İngilizceyi okuduğumun ve duyduğumun sadece %23’ini anlayacak kadar bildiğimi tahmin etmekteyim. Maalesef yeterli düzeyde değil. Bildiğimi iddia ettiğim teknolojiler sadece aldığım eğitimler ve kendi çabamla öğrendiğim bilgilerden ibaret. Lenovo Ideapad Y510P Laptop’um da Mac OSX(Hackintosh) ve Windows 11 kurulu. Hackintosh hakkında bilgi sahibiyim.(Mac olmayan bilgisayara macOS yüklemek hakkında). İstanbul, Ankara gibi büyük şehirlere gitmekten gerçekten çok korkuyorum. Çünkü daha önce büyük şehre hiç gitmedim. Kaybolacak mışım gibi hissediyorum, yoğun endişe ve kaygı duyuyorum. Niğde’nin dışına pek çıktığım söylenemez. Bir işe girecek olursam eğer bildiklerimi ve benden istenilen görevi yapamamaktan korkuyorum. Bu yüzden yoğun endişe, kaygı ve stres hissediyorum. O yüzden kusura bakmayın.
 Toplamda bitirdiğim eğitim seti 123 tane:
 https://www.linkedin.com/in/huseyin99/details/certifications/
-
-Toplamda bitirdiğim bütün kursları buraya yazmadım yukarıdaki linkten bakınız.
-
-BTK Akademi bitirdiğim ve sınavını geçtiğim kurslar(22 tane):
-
-01: Java ile Programlamaya Giriş,
-02: İleri Seviye Java Programlama,
-03: Büyük Veriye Giriş,
-04: Büyük Veri Uygulamaları,
-05: Angular ile Web Programcılığı,
-06: Node.JS ile Web Programcılığı,
-07: İşletim Sistemlerine Giriş,
-08: Siber Güvenlikte Linux İşletim Sistemleri,
-09: Web Uygulama Güvenliği ve Web Sızma Tekniklerine Giriş,
-10: Go ile Programlamaya Giriş,
-11: Kablosuz Ağlara Sızma Testi,
-12: Bilgi Teknolojilerine Giriş,
-13: Bash Script,
-14: Algoritma Programlama ve Veri Yapılarına Giriş,
-15: Uygulamalarla SQL Öğreniyorum(MS SQL Server),
-16: Sıfırdan İleri Seviye Oracle SQL,
-17: Versiyon Kontrolleri Git ve GitHub,
-18: REACT ile Web Programcılığı,
-19: PL/SQL ile Veri Tabanı Programcılığı,
-20: Her Yönüyle SQL Server,
-21: C#,
-22: Algoritma Tasarımı.
-
-NOT: BTK AKADEMIDEN 312’LI NUMARADAN ARADILAR AMA BABAM EGITIM ALMAM VE ISTIHDAM EDILMEM ICIN BENI GONDERMEDI.
-
-Udemy Mehmet Çelebioğlu hocanın tamamladığım eğitimleri:
-İleri Seviye PL/SQL,
-Advanced Level PL/SQL 1,
-Advanced Level PL/SQL 2.
-
-Udemy Mimar Aslan abinin tamamladığım eğitimleri(16 tane);
-
-01: Java Programlama 1 - Java SE (Standard Edition),
-02: Ethereum ve Solidity Dili ile Blockchain Programlama,
-03: Java Programlama 2 - JSP (JavaServer Pages),
-04: Java Programlama 12 - Spring Boot,
-05: Java Programlama 6 - Spring Framework,
-06: Java Programlama 8 - RESTful (JAX-RS) Web Servisleri,
-07: Java Programlama 10 - Spring Web MVC ve JPA Hibernate,
-08: SOAP ve RESTful Web Servisleri ile Android Programlama,
-09: Java Programlama 5 - Spring Core,
-10: Microsoft Azure Cloud ile Big Data Programlama,
-11: Java Programlama 9 - Spring MVC ve RESTful Web Servisleri,
-12: Android Programlama için Java ve XML,
-13: Apple iOS Programlama 1 - Objective-C Programlama Dili,
-14: Apple iOS Programlama 2- iPhone ve iPad Uygulama Geliştirme.
-15: JPA ve Hibernate Framework.
-16: Java Server Faces.
-
-Satın alıp da internet bağlantısı ve bilgisayarım olmadığı için izlemesi nasip olmayan Engin Demiroğ'un eğitim kursları:
-100+ Saat Aranan Programcı Olma eğitimi,
-98+ Saat Modern Web Programlama eğitimi.
-
-BTK Akademi internet bağlantısı ve bilgisayarım olmadığı için izlemesi yarım kalan eğitim kursları: C#(%65), Python ile Makine Öğrenmesi(%36), C++ ile Programlamaya Giriş, Siber Güvenlik Temelleri Eğitim Paketi ve Algoritma Programlama ve Veri Yapıları İleri Seviye.
-
-Eğitim aldığım Youtube kanalları; 
-Telusko(Hintli), Java Brains(Hintli), Amigos Code ve Engin Demiroğ.
-
-Android dosya yöneticisi uygulamam:
-https://m.apkpure.com/tr/t%C3%BCrk-dosya-y%C3%B6neticisi/com.huseyinaydin
-
-Sosyal medya projem Facebook 2003(Ara yüzü güzel değil. Görüntüye aldanmayınız. Lütfen izleyiniz.):
-https://youtu.be/YCzz6SRpV94YCzz6SRpV94
-
-Java 12, Spring Boot, Thymeleaf ve Spring Web MVC kullanarak geliştirdiğim sade ve basit korona virüs sayacı. Verileri GitHub'dan çekiyor idi.
-https://www.technopat.net/sosyal/konu/kendi-yazdigim-korona-virues-sayac-uygulamasi.859150/?amp=1
-
-Geliştirdiğim 800'den fazla küçük mini demo projeler var GitHub hesabımda ama hepsi private olarak yüklendi. Buradan maalesef paylaşamayacağım.
 
 Okuduğum örneklerini bilgisayar da aynen uyguladığım bazı (Mimar Aslan ve Özcan Acar) reislerin yazılım kitapları:
 JPA ve Hibernate Framework,
