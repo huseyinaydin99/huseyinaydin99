@@ -1,7 +1,7 @@
 <font face="calibri">
-<h3>Lütfen dikkatli okuyunuz.</h3>
-<h4>2014 yılında mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı.</h3>
-<h4>Ciddi zorluklar yaşadığım için senelerce proje yapamadım. İnternet bağlantım ve bilgisayarım olmadığı için kağıtlar üzerinde yapmaya çalıştım..</h4>
+<h3>Lütfen dikkatli okuyunuz!</h3>
+<h4>2014 yılında mezun oldum, 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı.</h3>
+<h4>Ciddi zorluklar yaşadığım için senelerce proje yapamadım / proje dahi oluşturamadım. İnternet bağlantım ve bilgisayarım olmadığı için kağıtlar üzerinde yapmaya çalıştım.</h4>
 <h4>GitHub profilimin zayıf oluşu bu yüzden.</h4>
 <h4>İzlediğim kurslar burada: https://www.linkedin.com/in/huseyin99/details/certifications/ </h4>
 <img src="resim11.jpg" />
