@@ -4,7 +4,7 @@
 <h4>Ciddi zorluklar yaşadığım için senelerce proje yapamadım. İnternet bağlantım ve bilgisayarım olmadığı için kağıtlar üzerinde yapmaya çalıştım..</h4>
 <h4>GitHub profilimin zayıf oluşu bu yüzden.</h4>
 <h4>İzlediğim kurslar burada: https://www.linkedin.com/in/huseyin99/details/certifications/ </h4>
-<img src="https://media-exp1.licdn.com/dms/image/C5622AQGjeq68PWrTGA/feedshare-shrink_1280/0/1660732485646?e=1671062400&v=beta&t=ZkEA55PS5bQEFA-FJZqHYMx4GEz12j8Y0u1n00zFDjs" />
+<img src="resim11.jpg" />
 <h4 align="left">Hi 👋, I'm Hüseyin Aydın</h4>
 <h4 align="left">An apprentice software developer in Turkey.</h4>
 <h4 align="left">I am lives in the mountains of Kurdunus/Kayaardı.</h4>
