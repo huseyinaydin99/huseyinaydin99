@@ -1,4 +1,4 @@
-<font face="calibri">
+<font face="consolas">
 <h3 align="left">Hi 👋, I'm Hüseyin Aydın</h3>
 <h4 align="left">A passionate frontend developer from Türkiye / Niğde.</h4>
 
@@ -17,7 +17,7 @@
 <h5>2014 yılında mezun oldum, 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı. Ciddi zorluklar yaşadığım için senelerce proje yazamadım daha doğrusu proje dahi oluşturamadım. Basit bir maven projesi oluşturmak ve bağımlılıkları çekmek için internet bağlantısına ihtiyacım vardı. İnternet bağlantım ve bilgisayarım maddi imkanların içerisinde maddi imkansızlıklardan dolayı olmadığı için kağıtlar üzerinde yapmaya çalıştım. GitHub profilimin zayıf oluşu bu yüzden.</h5>
 <h5>İzlediğim kurslar burada: https://www.linkedin.com/in/huseyin99/details/certifications/ </h5>
 <img width="400" height="" src="resim11.jpg" />
-<p><b>
+<p>
 <h5 style="font-size:3vw">
 	Hello. My name is Huseyin Aydin. I started software when I was in high school. I want to advance and make a career in the software field. I increase my programming experience by taking trainings, writing demo projects, working on algorithms, reading books and watching seminars.
 My experience in programming and software on
