@@ -66,27 +66,21 @@ Dependency Injection Deseni,
 Null Object Deseni,
 Multiton Deseni.
 
-Kullanmaya çalıştığım yazılım geliştirme prensibi: (SOLID_D)
-S_ingle Responsibility Principle
-O_pen/Closed Principle
-L_iskov Substitution Principle
-I_nterface Segregation Principle
-D_ependency Inversion Principle
+Kullanmaya çalıştığım yazılım geliştirme prensibi: 
+Single Responsibility Principle,
+Open/Closed Principle,
+Liskov Substitution Principle,
+Interface Segregation Principle,
+Dependency Inversion Principle,
+Do Not Repeat Yourself Principle.
 
-DRY:
-D_o Not Repeat Yourself Principle.
-
-Okuduğum örneklerini bilgisayar da aynen uyguladığım bazı (Mimar Aslan ve Özcan Acar) reislerin yazılım kitapları:
 JPA ve Hibernate Framework,
 Java Server Faces,
 Spring Framework,
-Pratik Spring Core(E-kitap - PDF).
-
-Diğer okuduğum kitaplar:
+Pratik Spring Core,
 Oracle SQL - Analitik SQL ve PL/SQL.
 
-“Medium.com” makalelerim:
-
+"Medium.com" makalelerim:
 Değer ve referans tipler: https://medium.com/@huseyinaydin99/javada-de%C4%9Fer-ve-referans-tipler-2fe5c79ba5ad<br />
 Java'da interface: https://medium.com/@huseyinaydin99/javada-interface-nedir-3257b93a378a<br />
 REST nedir? https://medium.com/@huseyinaydin99/rest-nedir-http-nedir-http-metotlar-nelerdir-7026e8647a5b<br />
