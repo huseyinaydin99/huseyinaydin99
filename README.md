@@ -31,11 +31,6 @@ I started high school in 2009 and finished in 2012. I finished Bor Vocational Hi
 
 
 Selamlar.
-Lütfen çok rica ediyorum sonuna kadar dikkatli okuyunuz. Önemli!
-
-
-LinkedIn profilimi lütfen inceleyiniz:
-https://www.linkedin.com/in/h%C3%BCseyin-aydin-778a13248?original_referer=
 
 11.09.1994 tarihinde Niğde’de doğdum. Niğde de ikamet ediyorum ve yaşıyorum. Babam yok, annem ev hanımı. Benimle birlikte dört kardeşiz. İlkokulu(2008), Endüstri Meslek Lisesi Web Tasarım ve Programlama bölümünü(2012), Niğde Üniversitesi Bor Meslek Yüksek Okulu Bilgisayar Programcılığı ön lisansı(2014) yıllarında bitirdim. İlk yazdığım program C# dilinde idi ve kullanıcıdan isim sorup aldığı ismi hoş geldiniz falanca kişi diye selamlıyor idi. Yazılım ile 2009 senesinde tanıştım. 2009 senesinde lise 1. sınıfa gidiyor idim. Şu an 28 yaşındayım.
 
@@ -100,7 +95,7 @@ Spring MVC: https://medium.com/@huseyinaydin99/spring-mvc-e5d844d40a4a<br />
 Spring Nedir? https://medium.com/@huseyinaydin99/spring-nedir-b040ddb34e6a<br />
 
 
-İnanın kurs videoları izlemekten göz sağlığım bozuldu, yüksek astigmat ve miyopi yüzünden kalın camlı gözlük takıyorum artık.
+Kurs videoları izlemekten göz sağlığım bozuldu, yüksek astigmat ve miyopi yüzünden kalın camlı gözlük takıyorum artık.
 CV’de yazım yanlışı varsa kusura bakmayın.
 Sürçü lisan ettiysem affola.
 
