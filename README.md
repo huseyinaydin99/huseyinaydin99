@@ -107,5 +107,5 @@ Sürçü lisan ettiysem affola.
 Özcan Acar:
 Bir firmada gel kardeş seni yetiştirelim demiyor. Hepsi Senior bilmem ne arıyor. Bu yazılımcılar ağaçta mı yetişiyor?
 
-Saygılar...
+Saygılar... <br>
 Hüseyin AYDIN
