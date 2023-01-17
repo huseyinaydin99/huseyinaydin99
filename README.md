@@ -80,7 +80,7 @@ Spring Framework,
 Pratik Spring Core,
 Oracle SQL - Analitik SQL ve PL/SQL.
 
-"Medium.com" makalelerim:
+"Medium.com" makalelerim:<br>
 Değer ve referans tipler: https://medium.com/@huseyinaydin99/javada-de%C4%9Fer-ve-referans-tipler-2fe5c79ba5ad<br />
 Java'da interface: https://medium.com/@huseyinaydin99/javada-interface-nedir-3257b93a378a<br />
 REST nedir? https://medium.com/@huseyinaydin99/rest-nedir-http-nedir-http-metotlar-nelerdir-7026e8647a5b<br />
