@@ -16,8 +16,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huso51&show_icons=true&locale=en&layout=compact" alt="huso51" /></p>
 <h5>2014 yılında mezun oldum, 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı. Ciddi zorluklar yaşadığım için senelerce proje yazamadım daha doğrusu proje dahi oluşturamadım. Basit bir maven projesi oluşturmak ve bağımlılıkları çekmek için internet bağlantısına ihtiyacım vardı. İnternet bağlantım ve bilgisayarım maddi imkanların içerisinde maddi imkansızlıklardan dolayı olmadığı için kağıtlar üzerinde yapmaya çalıştım. GitHub profilimin zayıf oluşu bu yüzden.</h5>
 <h5>İzlediğim kurslar burada: https://www.linkedin.com/in/huseyin99/details/certifications/ </h5>
-<img src="resim11.jpg" />
+<img width="400" height="" src="resim11.jpg" />
 <p><b>
+<h5 style="font-size:3vw">
 	Hello. My name is Huseyin Aydin. I started software when I was in high school. I want to advance and make a career in the software field. I increase my programming experience by taking trainings, writing demo projects, working on algorithms, reading books and watching seminars.
 My experience in programming and software on
 • Java / Java EE specifications JAX-RS (Jersey), JPA (Hibernate)
@@ -102,3 +103,4 @@ Bir firmada gel kardeş seni yetiştirelim demiyor. Hepsi Senior bilmem ne arıy
 
 Saygılar... <br>
 Hüseyin AYDIN
+	</h5></font>
