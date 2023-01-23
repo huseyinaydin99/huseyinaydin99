@@ -47,10 +47,6 @@
 </br>
 </br>
 
-### :bar_chart: GitHub Status:
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=huso51&amp;theme=onelight" /><br>
-
 ---
 
 #### :spiral_notepad: Öz geçmişim: 
@@ -87,11 +83,14 @@
 
 
 ### :chart_with_downwards_trend: Top Programming Languages:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huso51&amp;layout=compact&amp;theme=onelight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huso51&amp;layout=compact&theme=onelight" />
 
+### :bar_chart: GitHub Status:
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=huso51&theme=onelight" />
 
-### 📈 Used technologies:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=huso51&show_icons=true&hide_border=true;theme=onelight" />
+<!-- ### 📈 Used technologies:
+<img height="30" width="40" align="center" src="https://github-readme-stats.vercel.app/api?username=huso51&show_icons=true&hide_border=false&theme=onelight" />
+-->
 
 ##### Kurs videoları izlemekten göz sağlığım bozuldu, yüksek astigmat ve miyopi yüzünden kalın camlı gözlük takıyorum artık. CV’de yazım yanlışı varsa kusura bakmayın. Sürçü lisan ettiysem affola.
 ##### Özcan Acar:
