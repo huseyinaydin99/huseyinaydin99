@@ -54,17 +54,16 @@
 ---
 
 #### :spiral_notepad: Öz geçmişim: 
-2014 yılında mezun oldum, 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı. Ciddi zorluklar yaşadığım için senelerce proje yazamadım daha doğrusu proje dahi oluşturamadım. Basit bir maven projesi oluşturmak ve bağımlılıkları çekmek için internet bağlantısına ihtiyacım vardı. İnternet bağlantım ve bilgisayarım maddi imkanların içerisinde maddi imkansızlıklardan dolayı olmadığı için kağıtlar üzerinde yapmaya çalıştım. GitHub profilimin zayıf oluşu bu yüzden.
+2014 yılında mezun oldum, 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı. Ciddi zorluklar yaşadığım için senelerce proje yazamadım daha doğrusu proje dahi oluşturamadım. Basit bir maven projesi oluşturmak ve bağımlılıkları çekmek için internet bağlantısına ihtiyacım vardı. İnternet bağlantım ve bilgisayarım maddi imkanların içerisinde maddi imkansızlıklardan dolayı olmadığı için programlamayı öğrenmek adına kağıtlar üzerinde kod yazmaya çalıştım. Benim GitHub profilim aslında bu defterler!
 #### Here are the video courses I watched and learned: [Video Courses Certificates](https://www.linkedin.com/in/huseyin99/details/certifications/ "Video Course")
 
 ---
 
-#### I reading books: 	
-<img src="resim11.jpg" alt="alt text" title="Çalisma" height="350" />
-<img src="resim12.jpg" alt="alt text" title="Çalisma" height="350" />
-<img src="resim13.jpg" alt="alt text" title="Çalisma" height="350" />
+##### When I didn't have a computer, I was trying to learn by watching lesson videos and writing code in notebooks with my mother's smart phone!
 
----
+|Books |Books  | Books|
+--- | --- | ---|
+|<img src="resim11.jpg" alt="alt text" title="Çalisma" height="350" />|<img src="resim12.png" alt="alt text" title="Çalisma" height="350" />|<img src="resim13.png" alt="alt text" title="Çalisma" height="350" />|
 
 #### :spiral_notepad: My Resume: 
 ##### Hello. My name is Huseyin Aydin. I started software when I was in high school. I want to advance and make a career in the software field. I increase my programming experience by taking trainings, writing demo projects, working on algorithms, reading books and watching seminars.
