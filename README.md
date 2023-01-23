@@ -1,6 +1,10 @@
-#### Hi 👋, I'm Hüseyin Aydın.
-#### I'm a software developer who mostly works with the Java language. I follow other technologies as well.
-#### I was born and raised in Niğde. I live in Turkey / Niğde. I am an Anatolian child.
+#### السلام عليكم
+#### :grinning::+1:
+#### Hello! 
+<pre>
+Hi 👋, I'm Hüseyin Aydın.
+I'm a software developer who mostly works with the Java language. I follow other technologies as well.
+I was born and raised in Niğde. I live in Turkey / Niğde. I am an Anatolian child.</pre>
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/huseyin99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huseyin99/" height="30" width="47" /></a>
