@@ -21,7 +21,6 @@ I was born and raised in Niğde. I live in Turkey / Niğde. I am an Anatolian ch
 <img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="47" height="47"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="47" height="47" />
 <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="47" height="47"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="47" height="47"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="47" height="47"/>
 </br></br>
 
@@ -48,6 +47,7 @@ I was born and raised in Niğde. I live in Turkey / Niğde. I am an Anatolian ch
 
 #### Used database technologies:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="47" height="47" />
+<img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="47" height="47"/>
 <img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="47" height="47" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="47" height="47" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="47" height="47" />
