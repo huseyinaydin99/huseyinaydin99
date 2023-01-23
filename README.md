@@ -9,16 +9,19 @@
 <a href="https://www.youtube.com/@huseyinaydin1002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@huseyinaydin1002/" height="30" width="47" /></a>
 </br></br>
 #### Used Java and sub-technologies:
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="47" height="47"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="47" height="47"/>
-<img align="left" alt="Spring tool suite" src="https://user-images.githubusercontent.com/19311256/89726919-c61ef800-da3d-11ea-868d-b33d9940dfcc.png" width="47" height="47" />
-<img align="left" alt="Spring boot" src="https://user-images.githubusercontent.com/19311256/89726694-eef1be00-da3a-11ea-8401-a9e143ea0c5d.png" width="47" height="47"/>
+<img align="left" alt="Spring tool suite" src="https://user-images.githubusercontent.com/19311256/89726919-c61ef800-da3d-11ea-868d-b33d9955dfcc.png" width="47" height="47" />
+<img align="left" alt="Spring boot" src="https://user-images.githubusercontent.com/19311256/89726694-eef1be00-da3a-11ea-8551-a9e143ea0c5d.png" width="47" height="47"/>
 <img align="left" alt="Hibernate" src="https://user-images.githubusercontent.com/19311256/89726657-77bc2a00-da3a-11ea-844e-1ec652bc5410.png" width="47" height="47"/>
 <img align="left" alt="Eclipse" src="https://user-images.githubusercontent.com/19311256/89726620-eea4f300-da39-11ea-8d26-8f1d68a2704a.png" width="47" height="47"/>
 <img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="47" height="47"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="47" height="47" />
 <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="47" height="47"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="47" height="47"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="47" height="47"/>
+</br></br>
+
+#### Used Version Control System:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </br>
@@ -28,7 +31,7 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="47" height="47"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="47" height="47"/>
 <img align="left" align="left" alt="Visual Studio Code"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="47" height="47" />
-</br>
+</br></br>
 
 #### Used front-end technologies:
 <img align="left" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="47" height="47" />
@@ -37,13 +40,13 @@
 <img align="left" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="47" height="47" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="47" height="47" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="47" height="47" />
-</br>
+</br></br>
 
 #### Used database technologies:
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="47" height="47" />
 <img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="47" height="47" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="47" height="47" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="47" height="47" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="47" height="47" />
 </br>
 </br>
 
