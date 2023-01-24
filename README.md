@@ -100,7 +100,7 @@ I was born and raised in Niğde. I live in Turkey / Niğde. I am an Anatolian ch
 
 ##### Kurs videoları izlemekten göz sağlığım bozuldu, yüksek astigmat ve miyopi yüzünden kalın camlı gözlük takıyorum artık.
 ##### :spiral_notepad: Certificates:
-![](certificates.jpg "BTK Akademi Sertifikaları | BTK Akademi Certificates")
+![BTK Akademi Sertifikaları | BTK Akademi Certificates](certificates.jpg "BTK Akademi Sertifikaları | BTK Akademi Certificates")
 
 
 ##### CV’de yazım yanlışı varsa kusura bakmayın. Sürçü lisan ettiysem affola.
