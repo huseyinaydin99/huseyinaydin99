@@ -56,7 +56,7 @@ I was born and raised in Niğde. I live in Turkey / Niğde. I am an Anatolian ch
 ---
 
 #### :spiral_notepad: Öz geçmişim: 
-2014 yılı yazında Niğde / Bor Meslek Yüksek Okulundan mezun oldum, 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı. Ciddi zorluklar yaşadığım için senelerce proje yazamadım daha doğrusu proje dahi oluşturamadım. Basit bir maven projesi oluşturmak ve bağımlılıkları çekmek için internet bağlantısına ihtiyacım vardı. İnternet bağlantım ve bilgisayarım maddi imkanların içerisinde maddi imkansızlıklardan dolayı olmadığı için programlamayı öğrenmek adına akıllı telefondan video kurslar izleyip kağıtlar üzerinde kod yazmaya çalıştım. Benim GitHub profilim aslında bu defterler!
+2012 yılı yazında Niğde Endüstri Meslek Lisesi Web Programcılığı bölümünden, 2014 yılı yazında Niğde / Bor Meslek Yüksek Okulundan mezun oldum, 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı. Ciddi zorluklar yaşadığım için senelerce proje yazamadım, daha doğrusu proje dahi oluşturamadım. Basit bir maven projesi oluşturmak ve bağımlılıkları çekmek için internet bağlantısına ihtiyacım vardı. İnternet bağlantım ve bilgisayarım maddi imkanların içerisinde maddi imkansızlıklardan dolayı olmadığı için programlamayı öğrenmek adına akıllı telefondan video kurslar izleyip kağıtlar üzerinde kod yazmaya çalıştım. Benim GitHub profilim aslında bu defterler!
 #### Here are the video courses I watched and learned: [Video Courses Certificates](https://www.linkedin.com/in/huseyin99/details/certifications/ "Video Course")
 
 ---
