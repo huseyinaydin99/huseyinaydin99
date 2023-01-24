@@ -98,7 +98,12 @@ I was born and raised in Niğde. I live in Turkey / Niğde. I am an Anatolian ch
 <img height="30" width="47" align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinaydin99&show_icons=true&hide_border=false&theme=onelight" />
 -->
 
-##### Kurs videoları izlemekten göz sağlığım bozuldu, yüksek astigmat ve miyopi yüzünden kalın camlı gözlük takıyorum artık. CV’de yazım yanlışı varsa kusura bakmayın. Sürçü lisan ettiysem affola.
+##### Kurs videoları izlemekten göz sağlığım bozuldu, yüksek astigmat ve miyopi yüzünden kalın camlı gözlük takıyorum artık.
+##### :spiral_notepad: Certificates:
+![](certificates.jpg "BTK Akademi Sertifikaları | BTK Akademi Certificates")
+
+
+##### CV’de yazım yanlışı varsa kusura bakmayın. Sürçü lisan ettiysem affola.
 ##### Özcan Acar:
 Bir firmada gel kardeş seni yetiştirelim demiyor. Hepsi Senior bilmem ne arıyor. Bu yazılımcılar ağaçta mı yetişiyor?
 
