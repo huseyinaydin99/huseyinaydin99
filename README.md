@@ -7,10 +7,10 @@ I'm a software developer who mostly works with the Java language. I follow other
 I was born and raised in Niğde. I live in Turkey / Niğde. I am an Anatolian child.</pre>
 
 #### Connect with me:
-<a href="https://www.linkedin.com/in/huseyin99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huseyin99/" height="30" width="47" /></a>
-<a href="https://www.facebook.com/beyaz.sapkali.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/beyaz.sapkali.5/" height="30" width="47" /></a>
-<a href="https://www.instagram.com/huseyin.aydin.99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/huseyin.aydin.99/" height="30" width="47" /></a>
-<a href="https://www.youtube.com/@huseyinaydin1002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@huseyinaydin1002/" height="30" width="47" /></a>
+<a href="https://www.facebook.com/beyaz.sapkali.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/beyaz.sapkali.5/" height="35" width="47" /></a>
+<a href="https://www.instagram.com/huseyin.aydin.99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/huseyin.aydin.99/" height="35" width="47" /></a>
+<a href="https://www.linkedin.com/in/huseyin99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huseyin99/" height="35" width="47" /></a>
+<a href="https://www.youtube.com/@huseyinaydin1002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@huseyinaydin1002/" height="39" width="47" /></a>
 </br></br>
 #### Used Java and sub-technologies:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="47" height="47"/>
