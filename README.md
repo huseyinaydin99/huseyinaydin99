@@ -89,13 +89,13 @@ I was born and raised in Niğde. I live in Turkey / Niğde. I am an Anatolian ch
 
 
 ### :chart_with_downwards_trend: Top Programming Languages:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huso51&amp;layout=compact&theme=onelight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinaydin99&amp;layout=compact&theme=onelight" />
 
 ### :bar_chart: GitHub Status:
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=huso51&theme=onelight" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=huseyinaydin99&theme=onelight" />
 
 <!-- ### 📈 Used technologies:
-<img height="30" width="47" align="center" src="https://github-readme-stats.vercel.app/api?username=huso51&show_icons=true&hide_border=false&theme=onelight" />
+<img height="30" width="47" align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinaydin99&show_icons=true&hide_border=false&theme=onelight" />
 -->
 
 ##### Kurs videoları izlemekten göz sağlığım bozuldu, yüksek astigmat ve miyopi yüzünden kalın camlı gözlük takıyorum artık. CV’de yazım yanlışı varsa kusura bakmayın. Sürçü lisan ettiysem affola.
