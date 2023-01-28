@@ -102,6 +102,8 @@ I was born and raised in Niğde. I live in Turkey / Niğde. I am an Anatolian ch
 #### :spiral_notepad: My Certificates of BTK Akademi:
 ![BTK Akademi Sertifikaları | BTK Akademi Certificates](certificates.jpg "BTK Akademi Sertifikaları | BTK Akademi Certificates")
 
+---
+
 #### :spiral_notepad: My Certificates of Udemy:
 ![Udemy Sertifikaları Sertifikaları | BTK Akademi Certificates](udemy_certificate_full.jpg "Udemy Sertifikaları | Udemy Sertifikaları Certificates")
 
