@@ -4,7 +4,7 @@
 <pre>
 Hi 👋, I'm Hüseyin Aydın.
 I'm a software developer who mostly works with the Java language. I follow other technologies as well.
-I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an Anatolian child.</pre>
+I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an Anatolian child. Yes I know, I am an all-rounder!</pre>
 
 #### Connect with me:
 <a href="https://www.facebook.com/beyaz.sapkali.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/beyaz.sapkali.5/" height="35" width="47" /></a>
