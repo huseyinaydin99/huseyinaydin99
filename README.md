@@ -84,9 +84,9 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
  - [Değer ve Referans Tipler.](https://medium.com/@huseyinaydin99/javada-de%C4%9Fer-ve-referans-tipler-2fe5c79ba5ad "Değer ve referans tipler")
  - [Java'da Interface.](https://medium.com/@huseyinaydin99/javada-interface-nedir-3257b93a378a "Java'da interface.")
  - [REST Nedir?](https://medium.com/@huseyinaydin99/rest-nedir-http-nedir-http-metotlar-nelerdir-7026e8647a5b "REST Nedir?")
- - [SOLID Prensibler.](https://medium.com/@huseyinaydin99/solid-principle-solid-prensipler-b962d9acf047 "Solid Prensibler")
- - [Spring MVC Nedir?](https://medium.com/@huseyinaydin99/spring-mvc-e5d844d47a4a "Spring MVC Nedir?")
- - [Spring Nedir?](https://medium.com/@huseyinaydin99/spring-nedir-b047ddb34e6a "Spring Nedir?")
+ - [SOLID Prensibler.](https://medium.com/@huseyinaydin99/solid-principle-solid-prensipler-b962d9acf055 "Solid Prensibler")
+ - [Spring MVC Nedir?](https://medium.com/@huseyinaydin99/spring-mvc-e5d844d40a4a "Spring MVC Nedir?")
+ - [Spring Nedir?](https://medium.com/@huseyinaydin99/spring-nedir-b040ddb34e6a "Spring Nedir?")
  - [Monolitic Mimari SOA Mimarisi ve Microservice Mimarisi Kıyaslaması Nedir?](https://medium.com/@huseyinaydin99/monolitic-mimari-soa-mimarisi-ve-microservice-mimarisi-k%C4%B1yaslamas%C4%B1-nedir-b10bda9dc1fe "Spring Nedir?")
 
 
