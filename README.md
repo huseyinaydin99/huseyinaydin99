@@ -67,12 +67,6 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
 
 ---
 
-##### When I didn't have a computer, I was trying to learn by watching lesson videos and writing code in notebooks with my mother's smart phone!
-
-|Books |Books  | Books|
---- | --- | ---|
-|<img src="resim11.jpg" alt="alt text" title="Çalisma" width="285" />|<img src="resim12.png" alt="alt text" title="Çalisma" width="285" />|<img src="resim13.png" alt="alt text" title="Çalisma" width="385" />|
-
 #### :spiral_notepad: My Resume: 
 ##### I started high school in 2009 and finished in 2012. I finished Bor Vocational High School between 2012 and 2014. My student life did not end with graduation. It won't end until he dies. I'm an apprentice software developer trying to improve myself by getting training and reading books, that's all.
 ##### My experience in programming and software on
