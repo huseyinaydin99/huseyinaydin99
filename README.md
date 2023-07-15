@@ -58,7 +58,10 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
 ---
 
 #### :spiral_notepad: Öz geçmişim: 
-2012 yılı yazında Niğde Endüstri Meslek Lisesi Web Programcılığı bölümünden, 2014 yılı yazında Niğde / Bor Meslek Yüksek Okulundan mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı. Ciddi zorluklar yaşadığım için senelerce proje yazamadım, daha doğrusu proje dahi oluşturamadım. Basit bir maven projesi oluşturmak ve bağımlılıkları çekmek için internet bağlantısına ihtiyacım vardı. İnternet bağlantım ve bilgisayarım maddi imkanların içerisinde, maddi imkansızlıklardan dolayı programlamayı öğrenmek adına akıllı telefondan video kurslar izleyip kağıtlar üzerinde kod yazmaya çalıştım. Benim GitHub profilim aslında bu kağıtlar ve defterler!
+2012 yılı yazında Niğde Endüstri Meslek Lisesi Web Programcılığı bölümünden, 2014 yılı yazında Niğde / Bor Meslek Yüksek Okulundan mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı. Ciddi zorluklar yaşadığım için senelerce proje yazamadım, daha doğrusu proje dahi oluşturamadım. Basit bir maven projesi oluşturmak ve bağımlılıkları çekmek için internet bağlantısına ihtiyacım vardı. İnternet bağlantım ve bilgisayarım maddi imkanların içerisinde, maddi imkansızlıklardan dolayı olmadığından programlamayı öğrenmek adına akıllı telefondan video kurslar izleyip kağıtlar üzerinde kod yazmaya çalıştım. Benim GitHub profilim aslında bu kağıtlar ve defterler! Asla pes etme bilgisayar yoksa kağıtlar var!
+
+![20230625_004159-tile](https://github.com/huseyinaydin99/huseyinaydin99/assets/16438043/cd578d71-75ef-42e1-bb49-2335ec1b95a5)
+
 
 #### Here are the video courses I watched and learned: [Video Courses Certificates](https://www.linkedin.com/in/huseyin99/details/certifications/ "Video Course")
 
@@ -71,7 +74,6 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
 |<img src="resim11.jpg" alt="alt text" title="Çalisma" width="285" />|<img src="resim12.png" alt="alt text" title="Çalisma" width="285" />|<img src="resim13.png" alt="alt text" title="Çalisma" width="385" />|
 
 #### :spiral_notepad: My Resume: 
-##### Hello. My name is Huseyin Aydin. I started software when I was in high school. I want to advance and make a career in the software field. I increase my programming experience by taking trainings, writing demo projects, working on algorithms, reading books and watching seminars.
 ##### I started high school in 2009 and finished in 2012. I finished Bor Vocational High School between 2012 and 2014. My student life did not end with graduation. It won't end until he dies. I'm an apprentice software developer trying to improve myself by getting training and reading books, that's all.
 ##### My experience in programming and software on
 <pre>• Java / Java EE specifications JAX-RS (Jersey), JPA (Hibernate)
