@@ -118,6 +118,7 @@ Hüseyin AYDIN
 </b>
 </font>
 
+
 #### :floppy_disk: Developer CV prepared with PHP:
 
 ```php
@@ -158,6 +159,24 @@ $company -> hire($me);
 
 ?>
 ```
+
+<center>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</center>
+
 #### ما شاء الله
 #### لا حول ولا قوّة إلاّ بالله
 
