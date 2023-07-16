@@ -2,9 +2,14 @@
 #### السلام عليكم
 #### بسم الله الرحمن الرحيم
 #### :grinning::+1:
-#### Hello! 
+#### Hello!
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header)
+ <h3 align="center">Hi 👋, I'm Hüseyin Aydın.</h3>
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=I'm+Extreme+Programmer+)](https://git.io/typing-svg)
+
 <pre>
-Hi 👋, I'm Hüseyin Aydın.
 I'm a software developer who mostly works with the Java language. I follow other technologies as well.
 I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an Anatolian child. Yes I know, I am an all-rounder!</pre>
 
