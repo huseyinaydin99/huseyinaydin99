@@ -92,7 +92,7 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
  - [Spring MVC Nedir?](https://medium.com/@huseyinaydin99/spring-mvc-e5d844d40a4a "Spring MVC Nedir?")
  - [Spring Nedir?](https://medium.com/@huseyinaydin99/spring-nedir-b040ddb34e6a "Spring Nedir?")
  - [Monolitic Mimari SOA Mimarisi ve Microservice Mimarisi Kıyaslaması Nedir?](https://medium.com/@huseyinaydin99/monolitic-mimari-soa-mimarisi-ve-microservice-mimarisi-k%C4%B1yaslamas%C4%B1-nedir-b10bda9dc1fe "Monolitic Mimari SOA Mimarisi ve Microservice Mimarisi Kıyaslaması Nedir?")
- - [MSSQL Server’da Index kullanımı.]([https://medium.com/@huseyinaydin99/monolitic-mimari-soa-mimarisi-ve-microservice-mimarisi-k%C4%B1yaslamas%C4%B1-nedir-b10bda9dc1fe](https://medium.com/@huseyinaydin99/mssql-serverda-index-kullan%C4%B1m%C4%B1-882f7d88ca1) "MSSQL Server’da Index kullanımı.")
+ - [MSSQL Server’da Index kullanımı.]([[https://medium.com/@huseyinaydin99/monolitic-mimari-soa-mimarisi-ve-microservice-mimarisi-k%C4%B1yaslamas%C4%B1-nedir-b10bda9dc1fe](https://medium.com/@huseyinaydin99/mssql-serverda-index-kullan%C4%B1m%C4%B1-882f7d88ca1)](https://medium.com/@huseyinaydin99/mssql-serverda-index-kullan%C4%B1m%C4%B1-882f7d88ca1) "MSSQL Server’da Index kullanımı.")
 
 
 ### :chart_with_downwards_trend: Top Programming Languages:
