@@ -2,8 +2,6 @@
  <h3 align="center">Hi 👋, I'm Hüseyin Aydın.</h3>
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=I'm+Extreme+Programmer+)](https://git.io/typing-svg)
-
-
 #### السلام عليكم
 #### بسم الله الرحمن الرحيم
 #### :grinning::+1:
