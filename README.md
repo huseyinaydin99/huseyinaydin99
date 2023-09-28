@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header)
- <h3 align="center">Hi 👋, I'm Hüseyin Aydın.</h3>
- 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=0d7dee&multiline=true&width=1200&lines=I'm+Extreme+Programmer+)](https://git.io/typing-svg)
+<h3 align="center">Hi 👋, I'm Hüseyin Aydın.</h3>
+
+![turkish_flag_banner](https://github.com/huseyinaydin99/huseyinaydin99/assets/16438043/5042c08b-6125-494c-97ed-3745662c51f8)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&multiline=true&width=1200&lines=I'm+Psycho+Harcore+Programmer+)](https://git.io/typing-svg)
+
 #### السلام عليكم
 #### بسم الله الرحمن الرحيم
 #### :grinning::+1:
