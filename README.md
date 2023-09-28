@@ -66,11 +66,7 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
 #### :spiral_notepad: Öz geçmişim: 
 2012 Niğde Endüstri Meslek Lisesi Web Programcılığı, 2014 Bor Meslek Yüksek Okulu Bilgisayar Programcılığından mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı. Ciddi zorluklar yaşadığım için senelerce proje yazamadım, daha doğrusu proje dahi oluşturamadım. Basit bir maven projesi oluşturmak ve bağımlılıkları çekmek için internet bağlantısına ihtiyacım vardı. İnternet bağlantım ve bilgisayarım maddi imkanların içerisinde maddi imkansızlıklardan dolayı olmadığından programlamayı öğrenmek adına telefondan kurslar izleyip kağıtlar üzerinde kod yazmaya çalıştım. Benim GitHub profilim aslında bu kağıtlar ve defterlerdir. Beynim zaten biyolojik bir bilgisayar olduğundan kodlar kafada da çalışır. Zaten kafalar kod. :)
 
-
 ![20230625_004159-tile](https://github.com/huseyinaydin99/huseyinaydin99/assets/16438043/4f7f8e2d-bb3a-428e-82ac-b907122ef129)
-
-
-#### Here are the video courses I watched and learned: [Video Courses Certificates](https://www.linkedin.com/in/huseyin99/details/certifications/ "Video Course")
 
 ---
 
