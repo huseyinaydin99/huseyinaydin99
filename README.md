@@ -119,7 +119,7 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
 
 ##### CV’de yazım yanlışı varsa kusura bakmayın. Sürçü lisan ettiysem affola.
 ##### Özcan Acar:
-Bir firmada gel kardeş seni yetiştirelim demiyor. Hepsi Senior bilmem ne arıyor. Bu yazılımcılar ağaçta mı yetişiyor?
+Bir firmada gel abi seni yetiştirelim demiyor, hepsi Senior bilmem ne arıyor. Yazılımcılar ağaçta mı yetişiyor?
 
 <b>
 Saygılar</br>
