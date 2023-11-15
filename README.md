@@ -70,6 +70,10 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
 
 ---
 
+#### Murat Yücedağ hocam ve ben:
+![402640760_6830961063605757_112824673297717948_n](https://github.com/huseyinaydin99/huseyinaydin99/assets/16438043/94ffdb10-822e-4635-afdf-1b5f1a8fdbb3)
+
+
 #### :spiral_notepad: My Resume: 
 ##### I started high school in 2009 and finished in 2012. I finished Bor Vocational High School between 2012 and 2014. My student life did not end with graduation. It won't end until he dies. I'm an apprentice software developer trying to improve myself by getting training and reading books, that's all.
 ##### My experience in programming and software on
@@ -89,6 +93,9 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
  - [Spring Nedir?](https://medium.com/@huseyinaydin99/spring-nedir-b040ddb34e6a "Spring Nedir?")
  - [Monolitic Mimari SOA Mimarisi ve Microservice Mimarisi Kıyaslaması Nedir?](https://medium.com/@huseyinaydin99/monolitic-mimari-soa-mimarisi-ve-microservice-mimarisi-k%C4%B1yaslamas%C4%B1-nedir-b10bda9dc1fe "Monolitic Mimari SOA Mimarisi ve Microservice Mimarisi Kıyaslaması Nedir?")
  - [MSSQL Server’da Index kullanımı.](https://medium.com/@huseyinaydin99/mssql-serverda-index-kullan%C4%B1m%C4%B1-882f7d88ca1 "MSSQL Server’da Index kullanımı.")
+ - [RabbitMQ Nedir?.](https://medium.com/@huseyinaydin99/rabbitmq-nedir-ve-neden-kullan%C4%B1l%C4%B1r-b9d6193f1665, "RabbitMQ Nedir?")
+ - [Redis Nedir?.](https://medium.com/@huseyinaydin99/redis-nedir-ve-ne-ama%C3%A7la-kullan%C4%B1l%C4%B1r-cfa8d95a93b5, "Redis Nedir?")
+ - [Apache Kafka Nedir?.](https://medium.com/@huseyinaydin99/apache-kafka-nedir-ne-ama%C3%A7l%C4%B1-kullan%C4%B1l%C4%B1r-73d0afb3e28b, "Apache Kafka Nedir?")
 
 ### :chart_with_downwards_trend: Top Programming Languages:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinaydin99&amp;layout=compact&theme=onelight" />
