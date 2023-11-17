@@ -116,6 +116,7 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
 #### :spiral_notepad: My Certificates of Udemy:
 ![Udemy Sertifikaları Sertifikaları | BTK Akademi Certificates](udemy_certificate_full.jpg "Udemy Sertifikaları | Udemy Sertifikaları Certificates")
 
+![188172260_10159133237683467_7332087731443939233_n](https://github.com/huseyinaydin99/huseyinaydin99/assets/16438043/78906a65-c354-4695-879d-232f19a161c3)
 
 ##### CV’de yazım yanlışı varsa kusura bakmayın. Sürçü lisan ettiysem affola.
 ##### Özcan Acar:
