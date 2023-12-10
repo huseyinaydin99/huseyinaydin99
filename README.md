@@ -19,7 +19,7 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
 <a href="https://www.instagram.com/huseyin.aydin.99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/huseyin.aydin.99/" height="35" width="47" /></a>
 <a href="https://www.linkedin.com/in/huseyin99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huseyin99/" height="35" width="47" /></a>
 <a href="https://www.youtube.com/@huseyinaydin1002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@huseyinaydin1002/" height="39" width="47" /></a>
-</br></br>
+<br /><br />
 #### Used Java and sub-technologies:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="47" height="47"/>
 <img align="left" alt="Spring tool suite" src="https://user-images.githubusercontent.com/19311256/89726919-c61ef800-da3d-11ea-868d-b33d9955dfcc.png" width="47" height="47" />
@@ -39,7 +39,7 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="47" height="47" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="47" height="47" />
 <img align="left" align="left" alt="Visual Studio Code"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="47" height="47" />
-</br></br>
+<br /><br />
 
 #### Used database technologies:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="47" height="47" />
@@ -47,34 +47,34 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
 <img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="47" height="47" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="47" height="47" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="47" height="47" />
-</br>
-</br>
+<br />
+<br />
 
 #### Used .NET technologies:
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="47" height="47"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="47" height="47"/>
-</br></br>
+<br /><br />
 
 #### Used Version Control System:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</br>
+<br /><br />
 
----
-
-#### :spiral_notepad: Öz geçmişim: 
+#### Öz geçmişim :spiral_notepad:: 
 2012 Niğde Endüstri Meslek Lisesi Web Programcılığı, 2014 Bor Meslek Yüksek Okulu Bilgisayar Programcılığından mezun oldum. 2022'ye kadar düzenli bir bilgisayarım ve internet bağlantım olmadı. Ciddi zorluklar yaşadığım için senelerce proje yazamadım, daha doğrusu proje dahi oluşturamadım. Basit bir maven projesi oluşturmak ve bağımlılıkları çekmek için internet bağlantısına ihtiyacım vardı. İnternet bağlantım ve bilgisayarım maddi imkanların içerisinde maddi imkansızlıklardan dolayı olmadığından programlamayı öğrenmek adına telefondan kurslar izleyip kağıtlar üzerinde kod yazmaya çalıştım. Benim GitHub profilim aslında bu kağıtlar ve defterlerdir. Beynim zaten biyolojik bir bilgisayar olduğundan kodlar kafada da çalışır. Zaten kafalar kod. :)
 
 ![20230625_004159-tile](https://github.com/huseyinaydin99/huseyinaydin99/assets/16438043/4f7f8e2d-bb3a-428e-82ac-b907122ef129)
 
+
 ---
+
 
 #### Murat Yücedağ hocam ve ben:
 ![402640760_6830961063605757_112824673297717948_n](https://github.com/huseyinaydin99/huseyinaydin99/assets/16438043/94ffdb10-822e-4635-afdf-1b5f1a8fdbb3)
 
 
-#### :spiral_notepad: My Resume: 
+#### My Resume :spiral_notepad:: 
 ##### I started high school in 2009 and finished in 2012. I finished Bor Vocational High School between 2012 and 2014. My student life did not end with graduation. It won't end until he dies. I'm an apprentice software developer trying to improve myself by getting training and reading books, that's all.
 ##### My experience in programming and software on
 <pre>• Java / Java EE specifications JAX-RS (Jersey), JPA (Hibernate)
@@ -97,10 +97,10 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
  - [Redis Nedir?.](https://medium.com/@huseyinaydin99/redis-nedir-ve-ne-ama%C3%A7la-kullan%C4%B1l%C4%B1r-cfa8d95a93b5 "Redis Nedir?")
  - [Apache Kafka Nedir?.](https://medium.com/@huseyinaydin99/apache-kafka-nedir-ne-ama%C3%A7l%C4%B1-kullan%C4%B1l%C4%B1r-73d0afb3e28b "Apache Kafka Nedir?")
 
-### :chart_with_downwards_trend: Top Programming Languages:
+### Top Programming Languages :chart_with_downwards_trend: :
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinaydin99&amp;layout=compact&theme=onelight" />
 
-### :bar_chart: GitHub Status:
+### GitHub Status :bar_chart: :
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=huseyinaydin99&theme=onelight" />
 
 <!-- ### 📈 Used technologies:
@@ -113,7 +113,7 @@ I was born and raised in Türkiye / Niğde. I live in Türkiye / Niğde. I am an
 
 ---
 
-#### :spiral_notepad: My Certificates of Udemy:
+#### My Certificates of Udemy :spiral_notepad: :
 ![Udemy Sertifikaları Sertifikaları | BTK Akademi Certificates](udemy_certificate_full.jpg "Udemy Sertifikaları | Udemy Sertifikaları Certificates")
 
 ![188172260_10159133237683467_7332087731443939233_n](https://github.com/huseyinaydin99/huseyinaydin99/assets/16438043/78906a65-c354-4695-879d-232f19a161c3)
@@ -129,7 +129,7 @@ Hüseyin AYDIN
 </font>
 
 
-#### :floppy_disk: Developer CV prepared with PHP:
+#### Developer CV prepared with PHP :floppy_disk: :
 
 ```php
 <?php
